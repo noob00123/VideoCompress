@@ -53,12 +53,12 @@
     "LOG_CHANNEL": {
       "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
       "value": "",
-      "required": true
+      "required": false
     },
     "UPDATES_CHANNEL": {
       "description": "Do Force Sub! Add your Channel username which you want to do Force Sub. Read README.md file first!",
       "value": "",
-      "required": true
+      "required": false
     }
   },
   "stack": "container"

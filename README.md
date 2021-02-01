@@ -51,3 +51,14 @@ Bot can send his Live Status on Your Telegram Logs Channel! Just put your Channe
 * [Jijinr](https://github.com/Jijinr)
 * [SpEcHide](https://github.com/spechide)
 * [AbirHasan2005](https://github.com/AbirHasan2005)
+
+
+
+
+
+
+
+
+
+
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/noob00123/VideoCompress "Heroku")

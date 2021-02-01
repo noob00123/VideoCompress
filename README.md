@@ -61,4 +61,4 @@ Bot can send his Live Status on Your Telegram Logs Channel! Just put your Channe
 
 
 
-[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/noob00123/VideoCompress "Heroku")
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/noob00123/VideoCompress1 "Heroku")
